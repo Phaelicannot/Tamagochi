@@ -1,0 +1,14 @@
+C:\Users\erika.westman\programmering2\Tamagochi\obj\Debug\net7.0\Tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika.westman\programmering2\Tamagochi\obj\Debug\net7.0\Tamagochi.AssemblyInfoInputs.cache
+C:\Users\erika.westman\programmering2\Tamagochi\obj\Debug\net7.0\Tamagochi.AssemblyInfo.cs
+C:\Users\erika.westman\programmering2\Tamagochi\obj\Debug\net7.0\Tamagochi.csproj.CoreCompileInputs.cache
+C:\Users\erika.westman\programmering2\Tamagochi\bin\Debug\net7.0\Tamagochi.exe
+C:\Users\erika.westman\programmering2\Tamagochi\bin\Debug\net7.0\Tamagochi.deps.json
+C:\Users\erika.westman\programmering2\Tamagochi\bin\Debug\net7.0\Tamagochi.runtimeconfig.json
+C:\Users\erika.westman\programmering2\Tamagochi\bin\Debug\net7.0\Tamagochi.dll
+C:\Users\erika.westman\programmering2\Tamagochi\bin\Debug\net7.0\Tamagochi.pdb
+C:\Users\erika.westman\programmering2\Tamagochi\obj\Debug\net7.0\Tamagochi.dll
+C:\Users\erika.westman\programmering2\Tamagochi\obj\Debug\net7.0\refint\Tamagochi.dll
+C:\Users\erika.westman\programmering2\Tamagochi\obj\Debug\net7.0\Tamagochi.pdb
+C:\Users\erika.westman\programmering2\Tamagochi\obj\Debug\net7.0\Tamagochi.genruntimeconfig.cache
+C:\Users\erika.westman\programmering2\Tamagochi\obj\Debug\net7.0\ref\Tamagochi.dll
